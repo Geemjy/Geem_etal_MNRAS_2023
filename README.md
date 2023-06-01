@@ -1,7 +1,8 @@
 # Geem_etal_MNRAS_2023
 This repository offers the script used in Geem et al. MNRAS 2023. The repository contains:
 
-
+| Command | Description |
+| --- | --- |
 | README.md.    | This file|
 | Polarimetry   | The directory contains the script for the polarimetric data reduction   |
 | Spectroscopy  | The directory contains the script for processing the spectroscopic data 
