@@ -5,8 +5,7 @@ This repository offers the script used in Geem et al. MNRAS 2023. The repository
 | --- | --- |
 | README.md.    | This file|
 | Polarimetry   | The directory contains the script for the polarimetric data reduction   |
-| Spectroscopy  | The directory contains the script for processing the spectroscopic data 
-|               | taken by NASA Infrared Telescope Facility (IRTF)         |
+| Spectroscopy  | The directory contains the script for processing the spectroscopic data taken by NASA Infrared Telescope Facility (IRTF)         |
 | result        | The directory contains results used for generating the tables and figures in Geem et al. 2023.|
 
 
