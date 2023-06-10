@@ -6,7 +6,7 @@ This repository offers the script and data file (in csv) used in Geem et al. MNR
 | README.md.    | This file|
 | Polarimetry   | The directory contains the script for the polarimetric data reduction   |
 | Spectroscopy  | The directory contains the script for processing the spectroscopic data taken by NASA Infrared Telescope Facility (IRTF)         |
-| result        | The directory contains results used for generating the tables and figures in Geem et al. 2023.|
+| result        | The directory contains polarimetric and spectroscopic results measured in Geem et al. 2023.|
 
 
 
