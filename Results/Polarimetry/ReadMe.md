@@ -1,5 +1,7 @@
-*Geem.2023.CC21.Pol.csv* is the polarimetric results. The file includes all information to generate the Table 1.
-*In directory whose name is 'data'*, you can find the each sets of polarimetric results measured by MSI, FAPOL and HONIR. 
+**Geem.2023.CC21.Pol.csv** is the polarimetric results. The file includes all information to generate the Table 1.
+
+
+**In directory whose name is 'data'**, you can find the each sets of polarimetric results measured by MSI, FAPOL and HONIR. 
 We used the nightly weighted mean values for the fit and plotting the figures.
 
 
