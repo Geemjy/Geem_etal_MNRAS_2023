@@ -1,5 +1,5 @@
 # Geem_etal_MNRAS_2023
-This repository offers the script used in Geem et al. MNRAS 2023. The repository contains:
+This repository offers the script and data file (in csv) used in Geem et al. MNRAS 2023. The repository contains:
 
 | Command | Description |
 | --- | --- |
